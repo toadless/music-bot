@@ -1,6 +1,6 @@
 # Discord Music Bot
 
-This is a verry bare bones, light weight discord music bot.
+This is a very bare bones, light weight discord music bot.
 
 ## Should I Run this Locally?
 
